@@ -1,4 +1,4 @@
-# 🌦️ Random-Password-Generator
+# 🔐 Random-Password-Generator
 
 A simple application where users can generate **random password**.
 
