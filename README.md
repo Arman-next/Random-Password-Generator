@@ -58,7 +58,7 @@ A simple application where users can generate **random password**.
 ## 📁 Folder Structure
 
 ```bash
-Weather-App-JS/
+Random-Password-Generator/
 ├── index.html
 ├── style.css
 └── script.js
